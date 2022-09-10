@@ -1,4 +1,4 @@
-# ReactJS-AdminLTE
+# Grasp
 
 ![Maintenance](https://img.shields.io/maintenance/no/2017?style=for-the-badge)
 

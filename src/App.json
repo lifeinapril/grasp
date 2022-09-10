@@ -1,0 +1,51 @@
+{
+    "name":"Maya Studio",
+    "slogan":"dashboard for app creators",
+    "contacts":{
+      "phone":"+234 90 6529 1086",
+      "email":"deendevelopers@gmail.com",
+      "instagram":"deendevelopers",
+      "twitter":"deendevelopers",
+      "facebook":"deendevelopers"
+    },
+  "about":[
+    {   
+        "image":"",
+        "title":"Our focus has always been singular:",
+        "body":"To deliver premium presentation services that include photo realistic 3D visualization of architecture, interior and product animated video and the walk around. Our excellent customer service inspires us to deliver the highest quality in the shortest time possible."
+    },
+    {   
+        "image":"",
+        "title":"For The Culture",
+        "body":"Since you deserve to have some of our masterpieces in your space, our team is readily available to serve you. These are masterpieces that reflect the beauty of African culture and portrait paintings of"
+    },
+    {
+        "image":"",
+        "title":"Bring life to your space",
+        "body":"Our high end team will carefully translate your dreams into a finely crafted reality. We believe that furnishing your home should be an expression of joy, luxury and comfort. It helps to make your indoor spaces functional, safe and beautiful when you intentionally determine space requirements and select essential decorative items, such as colours, lighting and materials"
+    },
+    {
+        "image":"",
+        "title":"Space for Art",
+        "body":" If you’re a lover of artistic expression, you would know that masterpieces like African Motifs, Embossed portraits, Araism portraits and pencil drawings have a way of exhibiting the richness and beauty of arts."
+    }
+],
+    "clients":[
+        {
+            "name":"Abraham",
+            "comment":"best service so far",
+            "from":"Deen Developers"
+        },
+
+        {
+            "name":"Gideon Abel",
+            "comment":"i highly recommend it",
+            "from":"Munchco Veture"
+        },
+        {
+            "name":"Stella Omoakin",
+            "comment":"ever since, it has been top notch",
+            "from":"Stella omoakin"
+        }
+    ]
+}
